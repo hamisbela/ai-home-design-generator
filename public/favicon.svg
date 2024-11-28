@@ -1,0 +1,26 @@
+<svg id='Home_24' width='24' height='24' viewBox='0 0 24 24' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'><rect width='24' height='24' stroke='none' fill='#000000' opacity='0'/>
+
+
+<g transform="matrix(0.42 0 0 0.42 12 12)" >
+<g style="" >
+<g transform="matrix(1 0 0 1 0 -1.5)" >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(232,234,246); fill-rule: nonzero; opacity: 1;" transform=" translate(-24, -22.5)" d="M 42 39 L 6 39 L 6 23 L 24 6 L 42 23 z" stroke-linecap="round" />
+</g>
+<g transform="matrix(1 0 0 1 0 2.5)" >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(197,202,233); fill-rule: nonzero; opacity: 1;" transform=" translate(-24, -26.5)" d="M 39 21 L 34 16 L 34 9 L 39 9 z M 6 39 L 42 39 L 42 44 L 6 44 z" stroke-linecap="round" />
+</g>
+<g transform="matrix(1 0 0 1 0 -9.3)" >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(183,28,28); fill-rule: nonzero; opacity: 1;" transform=" translate(-24, -14.7)" d="M 24 4.3 L 4 22.9 L 6 25.1 L 24 8.4 L 42 25.1 L 44 22.9 z" stroke-linecap="round" />
+</g>
+<g transform="matrix(1 0 0 1 0 12)" >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(216,67,21); fill-rule: nonzero; opacity: 1;" transform=" translate(-24, -36)" d="M 18 28 L 30 28 L 30 44 L 18 44 z" stroke-linecap="round" />
+</g>
+<g transform="matrix(1 0 0 1 0 -4)" >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(1,87,155); fill-rule: nonzero; opacity: 1;" transform=" translate(-24, -20)" d="M 21 17 L 27 17 L 27 23 L 21 23 z" stroke-linecap="round" />
+</g>
+<g transform="matrix(1 0 0 1 3.5 13)" >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,138,101); fill-rule: nonzero; opacity: 1;" transform=" translate(-27.5, -37)" d="M 27.5 35.5 C 27.2 35.5 27 35.7 27 36 L 27 38 C 27 38.3 27.2 38.5 27.5 38.5 C 27.8 38.5 28 38.3 28 38 L 28 36 C 28 35.7 27.8 35.5 27.5 35.5 z" stroke-linecap="round" />
+</g>
+</g>
+</g>
+</svg>
